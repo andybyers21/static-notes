@@ -2,7 +2,7 @@
 layout: note
 title: Site Links
 parent: Test Folder
-nav_exclude: true
+# nav_exclude: true
 ---
 # Site Loinks
 

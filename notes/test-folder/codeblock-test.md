@@ -2,7 +2,7 @@
 layout: note
 title: Codeblock Test
 parent: Test Folder
-nav_exclude: true
+# nav_exclude: true
 ---
 
 ```
